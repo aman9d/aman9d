@@ -13,7 +13,7 @@
 - Technical in Brain
 
 [Bash Scripting](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php)
-[Python] (https://www.python.org/)
+[Python](https://www.python.org/)
 [Linux](https://www.linux.org/)
 [Ansible](https://www.ansible.com/)
 [Solarwind](https://www.solarwinds.com/)
