@@ -2,11 +2,11 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
-# NLP / Machine Learning
+### Data Engineering / Machine Learning
 
-# IT infra Monitoring (IBM TIVOLI, Solarwind, ScienceLoic, Prometheus)
+### IT infra Monitoring (IBM TIVOLI, Solarwind, ScienceLoic, Prometheus)
 
-# IT infra Automation
+### IT infra Automation
 
 **Interested in learning and sharing knowledge.**
 
